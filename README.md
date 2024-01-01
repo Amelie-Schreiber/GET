@@ -1,4 +1,4 @@
-# Implementation for Generalist Equivariant Transformer (GET)
+# (Unofficial) Implementation for Generalist Equivariant Transformer (GET)
 
 ## Requirements
 We have prepare the configure for creating the environment with conda in *env.yml*:
