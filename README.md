@@ -1,5 +1,7 @@
 # (Unofficial) Implementation for Generalist Equivariant Transformer (GET)
 
+[Generalist Equivariant Transformer Towards 3D Molecular Interaction Learning](https://arxiv.org/abs/2306.01474)
+
 ## Requirements
 We have prepare the configure for creating the environment with conda in *env.yml*:
 ```bash
